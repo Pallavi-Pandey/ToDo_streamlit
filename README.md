@@ -1,4 +1,4 @@
-# Streamlit ToDo Application
+# Streamlit Todo App
 
 A fast and lightweight task management application built with Python and the Streamlit framework.
 
